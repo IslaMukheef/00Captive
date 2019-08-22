@@ -1,3 +1,7 @@
+###	Note  you need to install scapy ###
+###	      pip install scapy		###
+###	scapy works only with python 2  ###
+
 import subprocess
 import os
 import time
